@@ -20,7 +20,6 @@ This project is a simple clone of the YouTube homepage interface built using HTM
 ## 📁 Project Structure
 
 /youtube-interface-clone
-│
 ├── index.html # Main HTML file
 ├── style.css # CSS styling
 ├── script.js # JavaScript (if used)
